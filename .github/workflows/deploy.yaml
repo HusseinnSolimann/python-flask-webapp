@@ -9,7 +9,7 @@ env:
   REGISTRY_LOGIN_SERVER: "husseinmahmoud.azurecr.io"
   WEB_APP_NAME: "husseinmahmoud-webapp"
   REGISTRY_USERNAME: "husseinmahmoud"
-  REGISTRY_PASSWORD: "Kg6e07SF1ihJM4aDjBhyrJ7jXXwgcdJGWmDSx5CJHZ+ACRAuwLVK"
+  REGISTRY_PASSWORD: "+iSfDcpfqRQ/kEioC+oWztBLgcTog+O3Bdtf3YTWA8+ACRDzlRGC"
   DOCKER_REGISTRY_SERVER_URL: "husseinmahmoud.azurecr.io"
 
 jobs:
